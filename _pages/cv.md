@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The view my full CV [Click Here](http://rsumeshmanjuanth.github.io/files/cv_sumesh_manjunath_feb2024.pdf)
+The view my full CV [Click Here](https://rsumeshmanjunath.github.io/files/cv_sumesh_manjunath_feb_2024.pdf)
 
 Education
 ======
