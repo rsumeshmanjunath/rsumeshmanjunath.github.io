@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Sumesh Manjunath Ramesh"
+title: "Vanakam / Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Vanakam / Hello!
 
 I am Sumesh Manjunath Ramesh, a Ph.D. candidate at [Tandon School of Engineering, New York University, USA](https://engineering.nyu.edu/), advised by [Dr. Hoda AlKhzaimi](https://www.linkedin.com/in/dr-hoda-a-alkhzaimi-b36a3910b/). My broad research lies at the intersection of applied cryptography, hardware implementation, and side-channel analysis. I am advancing the state of the art in symmetric cryptography.
 
