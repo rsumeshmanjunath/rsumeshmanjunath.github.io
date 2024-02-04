@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The view my full CV [Click Here](http://rsumeshmanjuanth.github.io/files/cv_sumesh_manjunath_feb2024.pdf)
+
 Education
 ======
 * Ph.D. in Computer Science, Tandon School of Engineering, New York University, USA, 2024 (expected)
