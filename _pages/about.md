@@ -16,6 +16,6 @@ I completed a [Master in Technology in Computer Science and Engineering with a s
 
 During my Master's program, I conducted research under their guidance on Authenticated Encryption modes for my thesis. This work was recognized as the Best M.Tech Thesis among the 11 theses submitted in 2013 at IIIT Delhi.
 
-Between my Master's and Ph.D., I gained valuable experience in applied research on real-world problems at TCS Research, INDIA. I joined the Applied Algorithms and Optimization Research Group under [Dr. Sachin Lodha](https://www.linkedin.com/in/sachin-lodha-8ba2991/), one of the finest managers I have worked with. It was a privilege to be mentored by him, and I learned the intricacies of applied research, producing pragmatic results for the organization.
+Between my Master's and Ph.D., I gained valuable experience in applied research on real-world problems at TCS Research, INDIA. I joined the Applied Algorithms and Optimization Research Group under [Dr. Sachin Lodha](https://www.linkedin.com/in/sachin-lodha-8ba2991/), who I consider to be one of the most exceptional managers I've had the opportunity to collaborate with. It was a privilege to be mentored by him, and I learned the intricacies of applied research, producing pragmatic results for the organization.
 
 After working with Dr. Sachin Lodha for a few years, I transitioned from TCS Research, Pune, INDIA, to TCS Research, Bengaluru, INDIA. Here, I focused on developing a Blockchain consensus framework for a private blockchain in an enterprise setting.
