@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Sumesh Manjunath Ramesh, a Ph.D. candidate at [Tandon School of Engineering, New York University, USA](https://engineering.nyu.edu/), advised by [Dr. Hoda AlKhzaimi](https://www.linkedin.com/in/dr-hoda-a-alkhzaimi-b36a3910b/). My broad research lies at the intersection of applied cryptography, hardware implementation, and side-channel analysis. I am advancing the state of the art in symmetric cryptography.
+I am Sumesh Manjunath Ramesh, currently a Postdoctoral Associate at New York University Abu Dhabi, continuing my work at the intersection of cryptography, hardware security, and privacy-preserving technologies. I hold a Ph.D. in Computer Science from [Tandon School of Engineering, New York University, USA](https://engineering.nyu.edu/), advised by [Dr. Hoda AlKhzaimi](https://www.linkedin.com/in/dr-hoda-a-alkhzaimi-b36a3910b/)., where my research focused on making lightweight cryptographic systems more secure and resilient against real-world attacks.
 
 I am also a recipient of the [NYUAD Global Ph.D. Student Fellowship in Engineering](https://nyuad.nyu.edu/en/admissions/graduate/global-phd-student-fellowships-in-engineering.html). Hence, I have had the opportunity to conduct my research work from the New York University Abu Dhabi campus, where my advisor's primary affiliation is located.
 
@@ -20,4 +20,4 @@ Between my Master's and Ph.D., I gained valuable experience in applied research 
 
 After working with Dr. Sachin Lodha for a few years, I transitioned from TCS Research, Pune, INDIA, to TCS Research, Bengaluru, INDIA. Here, I focused on developing a Blockchain consensus framework for a private blockchain in an enterprise setting.
 
-###### Last updated February 2024.
+###### Last updated June 2025.
