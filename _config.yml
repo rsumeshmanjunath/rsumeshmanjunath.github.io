@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sumesh Manjunath Ramesh"
+title                    : "Sumesh Manjunath Ramesh, Ph.D."
 title_separator          : "-"
 name                     : &name "Sumesh Manjunath Ramesh"
-description              : &description "Ph.D. candidate at New York University"
+description              : &description "Postdoctoral Associate at New York University Abu Dhabi"
 url                      : https://rsumeshmanjunath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rsumeshmanjunath.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sumesh Manjunath Ramesh"
-  avatar           : "profile.png"
-  bio              : "Ph.D. candidate at New York University"
-  location         : "New York, USA"
+  name             : "Sumesh Manjunath Ramesh, Ph.D."
+  avatar           : "profile.jpg"
+  bio              : "Postdoctoral Associate at New York University Abu Dhabi"
+  location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Sbaxl9QAAAAJ"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rsumeshmanjunath"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1604-5612"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
