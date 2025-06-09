@@ -13,16 +13,19 @@ The view my full CV [Click Here](https://rsumeshmanjunath.github.io/files/cv_sum
 
 Education
 ======
-* Ph.D. in Computer Science, Tandon School of Engineering, New York University, USA, 2024 (expected)
+* Ph.D. in Computer Science, Tandon School of Engineering, New York University, USA, 2024
 * Master in Technology in Computer Science and Engineering with specialization in Information Security, Indraprastha Insitute of Information Technology. Delhi, INDIA, 2013
 * Bachelor in Engineering in Computer Science and Engineering, Anna University, INDIA, 2010
 
 Work experience
 ======
-* Sep 2023-present: Senior Research Assistant under Dr. Hoda AlKhzaimi, EMARATSEC Lab, NYUAD, UAE
-  * Research exploration of symmetric cryptanalysis in the quantum world and design of side-channel resistant lightweight ciphers.
+* Sep 2024 - Present: Postdoctoral Associate at EMARATSEC Lab, NYUAD, UAE headed by Dr. Hoda Alkhzaimi.
+  * Research exploration on hardware accelerators for Zero-Knowledge Proofs and Post Quantum Cryptography.
+
+* Sep 2023 -Aug 2024: Senior Research Assistant under Dr. Hoda AlKhzaimi, EMARATSEC Lab, NYUAD, UAE
+  * Research exploration on symmetric cryptanalysis in the quantum world and design of side-channel resistant lightweight ciphers.
   
-* Jul 2017- Aug 2023: Graduate Research Assistant under Dr. Hoda AlKhzaimi, Center for Cyber Security, NYUAD, UAE
+* Jul 2017 - Aug 2023: Graduate Research Assistant under Dr. Hoda AlKhzaimi, Center for Cyber Security, NYUAD, UAE
   * Research exploration on hardware implementation of lightweight block ciphers and their side-channel analysis, resulting in 1 publication and 3 under-review.Github University
   
 * Apr 2016 - Jun 2017: Researcher under Dr. Rajan M.A., Senior Scientist, TCS Research, Bengaluru, INDIA
